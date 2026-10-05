@@ -1,5 +1,5 @@
 """
-Apply on Job - Executive C-Level Excel Scorecard Generator
+Global HRTech & Talent Practice - Executive C-Level Excel Scorecard Generator
 Generates a formatted corporate Excel Workbook (.xlsx) with KPI scorecards,
 waterfall funnels, channel ROI benchmarks, and conditional alerts.
 """
@@ -47,7 +47,7 @@ class ExecutiveExcelReporter:
         # 1. Main Title Block
         ws_kpis.merge_cells("A1:G1")
         title_cell = ws_kpis["A1"]
-        title_cell.value = "APPLY ON JOB — EXECUTIVE TALENT ACQUISITION & HIRING VELOCITY SCORECARD"
+        title_cell.value = "Global HRTech & Talent Practice — EXECUTIVE TALENT ACQUISITION & HIRING VELOCITY SCORECARD"
         title_cell.font = white_title_font
         title_cell.fill = navy_header_fill
         title_cell.alignment = Alignment(horizontal="center", vertical="center")

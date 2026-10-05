@@ -1,10 +1,10 @@
 @echo off
 chcp 65001 >nul
-title "Tableau Data Storytelling Sprint - Apply on Job"
+title "Tableau Data Storytelling Sprint - Global HRTech & Talent Practice"
 color 0B
 
 echo ===============================================================================
-echo   TABLEAU DATA STORYTELLING SPRINT (GP-026) -- APPLY ON JOB
+echo   TABLEAU DATA STORYTELLING SPRINT (GP-026) -- Global HRTech & Talent Practice
 echo   DuckDB Kimball Star Schema, Tableau LOD Calculations and Excel Scorecard
 echo ===============================================================================
 echo.

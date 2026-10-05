@@ -30,4 +30,4 @@ def test_executive_excel_generation(prepared_fact_file, tmp_path):
     wb = openpyxl.load_workbook(path)
     assert "Executive Summary" in wb.sheetnames
     ws = wb["Executive Summary"]
-    assert "APPLY ON JOB" in ws["A1"].value
+    assert "Global HRTech & Talent Practice" in ws["A1"].value

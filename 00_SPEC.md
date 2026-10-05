@@ -1,12 +1,12 @@
 # 📐 SPEC & Blueprint: Tableau Data Storytelling Sprint (GP-026)
-**Target Company:** Apply on Job | **Target Role:** Data Scientist
+**Target Company:** Global HRTech & Talent Practice | **Target Role:** Data Scientist
 **Perspective:** Causal & Survival Lifecycle Analytics (`CAUSAL_SURVIVAL`)
 **Core Algorithm:** Kaplan-Meier & Cox Proportional Hazards Hazard Modeling
 
 ---
 
 ## 🏛️ 1. The Core Business Bottleneck
-Apply on Job enfrenta una pérdida crítica de eficiencia operacional y visibilidad analítica debido a la falta de modelos predictivos y automatización de métricas sobre flujos de datos transaccionales masivos. Las soluciones tradicionales dependen de planillas manuales propensas a errores o arquitecturas rígidas de alto costo.
+Global HRTech & Talent Practice enfrenta una pérdida crítica de eficiencia operacional y visibilidad analítica debido a la falta de modelos predictivos y automatización de métricas sobre flujos de datos transaccionales masivos. Las soluciones tradicionales dependen de planillas manuales propensas a errores o arquitecturas rígidas de alto costo.
 
 ## ⚖️ 2. Architectural Trade-Offs Evaluated
 - **Trade-Off Central:** Modelado Dinámico Temporal vs Agregaciones Estáticas Tradicionales
@@ -20,7 +20,7 @@ Apply on Job enfrenta una pérdida crítica de eficiencia operacional y visibili
 
 ### ❓ Pregunta Trampa 1: ¿Por qué decidiste aplicar Kaplan-Meier & Cox Proportional Hazards Hazard Modeling en lugar de una agregación tradicional en SQL?
 > **💡 Respuesta Estratégica:** 
-> *"Porque las agregaciones estáticas tradicionales solo miran el pasado y asumen comportamientos lineales. Al aplicar Kaplan-Meier & Cox Proportional Hazards Hazard Modeling, capturamos la dinámica probabilística y estocástica de los datos de Apply on Job, permitiendo a la dirección anticipar desviaciones y optimizar márgenes antes de que ocurra la pérdida."*
+> *"Porque las agregaciones estáticas tradicionales solo miran el pasado y asumen comportamientos lineales. Al aplicar Kaplan-Meier & Cox Proportional Hazards Hazard Modeling, capturamos la dinámica probabilística y estocástica de los datos de Global HRTech & Talent Practice, permitiendo a la dirección anticipar desviaciones y optimizar márgenes antes de que ocurra la pérdida."*
 
 ### ❓ Pregunta Trampa 2: ¿Cómo garantizas que el pipeline no se rompa si el volumen de datos se multiplica por 10?
 > **💡 Respuesta Estratégica:**

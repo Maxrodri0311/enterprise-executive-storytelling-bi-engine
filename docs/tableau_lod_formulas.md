@@ -1,5 +1,5 @@
 # 📊 Tableau Level-of-Detail (LOD) & Calculated Field Catalog
-### *Apply on Job — Talent Acquisition & Hiring Analytics*
+### *Global HRTech & Talent Practice — Talent Acquisition & Hiring Analytics*
 
 Este catálogo documenta las expresiones de nivel de detalle (**LOD Expressions: `{FIXED}`, `{INCLUDE}`, `{EXCLUDE}`**) y campos calculados avanzados diseñados para **Tableau Desktop / Tableau Public**, acompañados de su implementación semántica equivalente en **SQL Analítico (Window Functions)**.
 

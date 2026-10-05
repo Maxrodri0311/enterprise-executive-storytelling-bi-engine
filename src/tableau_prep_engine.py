@@ -1,5 +1,5 @@
 """
-Apply on Job - Tableau Prep & DuckDB Dimensional Modeling Engine
+Global HRTech & Talent Practice - Tableau Prep & DuckDB Dimensional Modeling Engine
 Materializes a Kimball Star Schema with advanced Tableau Level-of-Detail (LOD) SQL calculations.
 """
 import os

@@ -1,5 +1,5 @@
 """
-Apply on Job - Enterprise Recruitment Funnel & Talent Acquisition Data Generator
+Global HRTech & Talent Practice - Enterprise Recruitment Funnel & Talent Acquisition Data Generator
 Generates realistic stochastic datasets (50,000+ records) modeling candidate progression,
 compensation dynamics, sourcing channel unit economics, and hiring velocity.
 """
